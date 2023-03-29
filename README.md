@@ -21,4 +21,3 @@
 ### 📚 Studying:<br>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></code>
-##
