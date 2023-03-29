@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelisaac&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-### 🖥️ Tecnologias e ferramentas: 
+### 🖥️ Languages and tools: 
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/></code>
@@ -15,11 +15,10 @@
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"/></code>
   
 <br>
   
-### 📚 Estudando:<br>
+### 📚 Studying:<br>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"/></code>
 ##
